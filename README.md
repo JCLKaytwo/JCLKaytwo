@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently a game design student. Playing video games has been my primary hobby since I was little, inspired by the Nintendo classics. I aim to create fun gameplay-first experiences that players will remember.
 <!--
 **JCLKaytwo/JCLKaytwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
